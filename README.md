@@ -1,0 +1,2 @@
+# Lotto-Assignment-Year-1
+This is a github repository for my Programming assignment I did as part of my first year Computer Science. We were required to make a program that emulates a Lotto game. Program must be modularised and each task must be dealt with in a seperate function. The program should have a menu that re-appears after each option is complete. The program must use pointer notation to access array elements.
